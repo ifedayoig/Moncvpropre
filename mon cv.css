@@ -1,0 +1,96 @@
+body{
+background-color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+width: 1000px;
+height: 100px;
+border-radius: 50px red;
+}
+.entete {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: dodgerblue;
+    text-align: center;
+    background-color: gold;
+    font-size: 30px;
+}
+
+.coordonnees  {
+    
+    height: 400px;
+    width: 350px;
+    float: left;
+    text-align: center;
+    margin-left: 50px;
+}
+
+
+.experiences {
+    
+    height: 400px;
+    width: 550px;
+    float: right;
+    margin-top: 0px;
+    text-align: left;
+    
+}
+
+
+.cours  {
+    
+    height: 400px;
+    width: 350px;
+    float: left;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+
+
+.formations {
+   
+    height: 400px;
+    width: 550px;
+    float: right;
+    margin-top: -60px;
+    text-align: left;
+}
+
+
+.competences  {
+    
+    height: 400px;
+    width: 350px;
+    float: left;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -80px;
+
+}
+
+
+.loisirs {
+    
+    height: 400px;
+    width: 550px;
+    float: right;
+    margin-top: -80px;
+}
+
+.img {
+    width: 20%;
+    border-left: 500px;
+    margin-left: 50px;
+}
+
+.az { 
+    font-family: fantasy;
+    font-size: 60px;
+    font-style: italic;
+    height: 30px;
+    width: 550px;
+    float: right;
+    text-align: center;
+    margin-right: 110px;
+}
